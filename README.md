@@ -1,6 +1,9 @@
 House Price Prediction API 🏠
+
 Production-Ready ML Model Deployment with FastAPI
+
 📌 Project Overview
+
 This project demonstrates the transition of a Machine Learning model from a static artifact (.pkl) to a production-ready web service. I developed a high-performance REST API to serve real-time house price predictions using FastAPI and Pydantic.
 
 This implementation follows industry-standard MLOps patterns, ensuring that the model is loaded efficiently, inputs are strictly validated, and the service is easily monitorable.
